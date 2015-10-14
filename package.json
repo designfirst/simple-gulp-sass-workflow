@@ -1,0 +1,23 @@
+{
+  "name": "class-8",
+  "version": "1.0.0",
+  "description": "Class8",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
+    "node-bourbon": "^4.2.3"
+  }
+}
