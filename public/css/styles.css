@@ -1,8 +1,7 @@
 /* loading the reset */
 @import url(./_reset.css);
 body {
-  font-size: 1.1rem;
-  color: red; }
+  font-size: 1.1rem; }
 
 .wrapper {
   height: auto;

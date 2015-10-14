@@ -1,12 +1,11 @@
 /* loading the reset */
 @import "./_reset.css";
-//@import "node_modules/bourbon/*";
-
+@import "bourbon";
 
 body {
     font-size: 1.1rem;
-    color: red;
-} 
+}
+
 
 .wrapper {
     height: auto;
